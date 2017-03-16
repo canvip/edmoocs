@@ -43,7 +43,7 @@ To watch some training videos, visit http://www.youtube.com/user/c9ide# edmoocs
 
 
 افتكر
-
+__________________________
 echo "# edmoocs" >> README.md
 git init
 git add README.md
@@ -53,3 +53,4 @@ git push -u origin master
 
 git remote add origin https://github.com/canvip/edmoocs.git
 git push -u origin master
+_________________________
